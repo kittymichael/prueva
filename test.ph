@@ -1,0 +1,1 @@
+strig = 'hi there'
